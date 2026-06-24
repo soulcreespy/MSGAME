@@ -1,0 +1,24 @@
+## VS 2022 ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results ##
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Files built by Visual Studio ##
+*.exe
+*.dll
+*.pdb
+
+## MSTest test Results s s ##
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NuGet Packages ##
+*.nupkg
